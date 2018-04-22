@@ -1,6 +1,6 @@
 package serverSmartDoc.domain.mediator;
 
-import utility.persistance.MyDatabase;
+import utility.persistence.MyDatabase;
 
 public class DBS implements DbsPersistance {
 
